@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "author": "Sam Shead",
+      "title": "Bill Gates questions Elon Musk's goals with Twitter: 'He could make it worse' - CNBC",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107017517-1645200499603-gettyimages-1236298089-jm1_6693.jpeg?v=1651738132&w=1920&h=1080",
+      "content": "Bill Gates has warned that Elon Musk could make Twitter \\\"worse\\\" after the Tesla CEO pledged to buy the social media firm for $44 billion.\\r\\nSpeaking at the Wall Street Journal's CEO Summit Wednesday, … [+3281 chars]",
+      "id": 1
+    },
+    {
+      "author": "Ken Martin",
+      "title": "Buffett's Berkshire buys more Occidental shares - Fox Business",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2019/05/0/0/buffett-video-thumbnail.jpg?ve=1&tl=1",
+      "content": "arren Buffett's Berkshire Hathaway stocked up on oil shares this week, adding to the company's holdings of Occidental Petroleum.\\r\\nBerkshire bought about 5.9 million more shares of the oil company. T… [+1721 chars]",
+      "id": 3
+    },
+    {
+      "author": "Bradford Betz",
+      "title": "Elon Musk challenges billionaires, pols funding groups attacking his Twitter buy - Fox Business",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/Elon-Musk.jpg?ve=1&tl=1",
+      "content": "Tesla CEO Elon Musk appeared to ramp up the pressure on multiple left-wing groups backed by teachers unions and George Soros who signed a letter pressuring Twitter’s top advertisers to boycott the so… [+1623 chars]",
+      "id": 4
+    }
+  ]
+}
